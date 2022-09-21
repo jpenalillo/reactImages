@@ -1,0 +1,8 @@
+.contendorImagenes{
+    display: flex;
+    align-content: space-between;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 500px;
+}
